@@ -1,0 +1,97 @@
+#body{
+margin-left: 9%;
+margin-right: 9%;
+margin-top: 0%;
+}
+#izquierdo{
+    float: left;
+    background: rgb(207, 226, 226);
+    /*height: auto;*/
+    height:950;
+    width: 30%;
+   margin-left: 2%;
+   padding-left: 2%;
+   padding-top:0%;
+   padding-bottom: 0%;;
+}
+
+.foto {
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+    size: 500px;
+    width: 150px;
+    height: 200px;
+    }
+  #derecho{
+      float: right;
+      background: rgb(222, 235, 235);
+    height: auto;
+    width: 62%;
+padding-right: 2%;
+   padding-left: 2%;
+   height:950;
+}
+.curriculo{
+    text-align: center;
+    color: blue;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.subtitulos{
+    color: blue;
+    font-size: 25px;
+    background: rgb(181, 201, 201);
+    padding-top:0%;
+   padding-bottom: 0%;;
+}
+p{
+    text-align: justify;
+   }
+.articulos{
+    float: left;
+    border-style:groove;
+    padding:1%;
+    padding-top:0%;
+   padding-bottom: 0%;;
+}
+#articulosA{
+    float: left;
+    }
+#articulosB{
+    float:right;
+        width:63%;
+  }
+#articulosB1{
+    float:right;
+    width:63%;
+}
+#articulosB2{
+       width:100%;
+}
+.fechas{
+    float: left;
+    font-size: 17px;
+}
+.empresas{
+    margin-top: 0%;
+}
+h3{
+    margin-bottom: 8px;
+}
+h4{
+    margin-bottom: 1px;
+    margin-top: 0.5%;
+}
+ul{
+    margin-top: 2px;
+}
+.video{
+    float: left;
+    background: rgb(222, 235, 235);
+       height:500;
+    width: 94%;
+   margin-left: 2%;
+     padding-left: 2%;
+   padding-right: 2%;
+  }
